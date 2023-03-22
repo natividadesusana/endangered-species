@@ -1,4 +1,4 @@
-## *This is a practical activity developed for theUniversity of the Itajaí Valley.*
+## *This is a practical activity developed for the University of Itajaí Valley.*
 
 # Getting Started with Create React App
 
