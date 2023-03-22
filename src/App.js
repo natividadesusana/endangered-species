@@ -1,3 +1,7 @@
+import Polls from "./components/Polls/Polls";
+
 export default function App() {
-  return "hello";
+  return (
+    <Polls />
+  )
 }
